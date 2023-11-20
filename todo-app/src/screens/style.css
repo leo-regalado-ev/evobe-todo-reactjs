@@ -1,0 +1,15 @@
+
+.main-container {
+    padding-top: 24px;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.todo-list {
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+}
